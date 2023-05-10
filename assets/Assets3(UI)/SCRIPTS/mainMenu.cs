@@ -11,7 +11,7 @@ public class mainMenu : MonoBehaviour
     }
     public void openlink()
     {
-        Application.OpenURL("https://github.com/Dasha0712/Virtual-Labarotory-Using-AR.git");
+        Application.OpenURL("https://github.com/Bharathraj-19/VIRTUAL-LAB-USING-AR-WITH-UNITY.git");
     }
     public void PlayDiodeScene()
     {
